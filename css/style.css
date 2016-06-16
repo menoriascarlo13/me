@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    font: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+#nav {
+    border-radius: 0px;
+}
+
+.stats {
+    text-align: center;
+    font-size: 120%;
+}
+
+.devicon-git-plain {
+  max-width: 5em;
+}
+
+svg {
+    width: 20%;
+    height: 20%;
+}
