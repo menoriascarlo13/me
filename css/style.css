@@ -187,6 +187,10 @@ footer {
     background-image: url('../images/node-js.png');
 }
 
+.gsap {
+    background-image: url('../images/gsap.png');
+}
+
 .content-info {
     /*    padding-top: 50px;*/
     padding-bottom: 40px;
