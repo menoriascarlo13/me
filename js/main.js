@@ -3,3 +3,9 @@ function animateIn() {
         $(element).css('opacity', '1')
     });
 }
+
+function yearReturn() {
+    var currentTime = new Date();
+    var year = currentTime.getFullYear();
+    return year;
+}

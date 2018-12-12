@@ -2,6 +2,8 @@ $(document).ready(function () {
     var doesAnimate = false;
     var lastScrollTop = 0;
     var scrolled = false;
+    
+    yearCont.innerHTML = yearReturn();
 
     $('header').css('height', $(window).height() + 'px');
 
